@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609044977083",
+    "project_id": "codeblogs-58ce4",
+    "storage_bucket": "codeblogs-58ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609044977083:android:9708329df0db351d52e09e",
+        "android_client_info": {
+          "package_name": "com.example.codeblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609044977083-1cga82l9e01teabsbrvmrov16p879m3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOXd104vwc1FukXnI9VMbSNG8i1aq_C6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609044977083-1cga82l9e01teabsbrvmrov16p879m3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
